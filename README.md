@@ -12,7 +12,7 @@
 
 - 📫 Reach me on **prashantchawla.dc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1fniyqwdQ-TlxC-MpWnhkOIgjfsM5Mi8y](https://drive.google.com/drive/folders/1fniyqwdQ-TlxC-MpWnhkOIgjfsM5Mi8y)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1fniyqwdQ-TlxC-MpWnhkOIgjfsM5Mi8y)
 
 - ⚡ Fun fact **I Love Photography and Music.**
 
@@ -24,11 +24,11 @@
   
   <div align="left">
     
- [![Website Badge](https://img.shields.io/badge/-Prashant-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://find-kartik-gupta.vercel.app/)](https://find-kartik-gupta.vercel.app/)
-   [![Linkedin Badge](https://img.shields.io/badge/-PrashantChawla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kartik-gupta-3275651b8/)](https://www.linkedin.com/in/kartik-gupta-3275651b8/) 
+ [![Website Badge](https://img.shields.io/badge/-Prashant-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://1prashantchawla.github.io/Prashant-Portfolio/)](https://1prashantchawla.github.io/Prashant-Portfolio/)
+   [![Linkedin Badge](https://img.shields.io/badge/-PrashantChawla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/prashant-chawla-aa47a0218)](https://in.linkedin.com/in/prashant-chawla-aa47a0218) 
    [![Gmail Badge](https://img.shields.io/badge/prashantchawla.dc-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prashantchawla.dc@gmail.com)](mailto:prashantchawla.dc@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@bihani.priya-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/kartik18g/)](https://instagram.com/bihani.priya) 
- [![Twitter Badge](https://img.shields.io/badge/-@PrashantChawla-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/p_bihani)](https://twitter.com/Gkaartik) 
+   [![Instagram Badge](https://img.shields.io/badge/-@prashantchawla-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_prashant_chawla/)](https://instagram.com/_prashant_chawla/) 
+ 
  
 </div>
   <p align="left">
