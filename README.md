@@ -32,7 +32,7 @@
  
 </div>
   <p align="left">
-    Show ❤️ by starring repositories you find good! 
+    Show ❤️ by starring repositories you find good ! 
   </p>
 </p>
 
